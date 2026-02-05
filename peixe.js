@@ -14,6 +14,8 @@ var config = {
     }
 }
 
+// Teste
+
 var game = new Phaser.Game(config);
 
 var peixinho;
